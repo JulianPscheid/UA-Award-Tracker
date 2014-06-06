@@ -1,0 +1,12 @@
+BeautifulSoup==3.2.1
+Flask==0.10.1
+Jinja2==2.7.2
+MarkupSafe==0.23
+Werkzeug==0.9.4
+beautifulsoup4==4.3.2
+gunicorn==18.0
+itsdangerous==0.24
+mechanize==0.2.5
+parse-rest==0.2.20141003
+requests==2.3.0
+wsgiref==0.1.2
