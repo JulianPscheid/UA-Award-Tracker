@@ -3,6 +3,8 @@ UA-Award-Tracker
 
 Python application that scans the UA website for award availability and sends out notification emails based on results.
 
+I should note that I am a Python newbie so this application does probably not follow any development best practices... but it works :)
+
 Packages used:
 
 Mechanize
